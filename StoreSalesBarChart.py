@@ -1,7 +1,7 @@
 # Author: Matthew Spiller
 # Date Modified: February 7, 2022
 
-# SalesCommissionCalculator
+# StoreSalesBarChart
 # Description: Prints a bar graph using a set of asterisks (*) in the console. For every 100 stores, one asterisk is printed. Program ends when user passes "-1".
 
 def print_bar(store_num, store_sales):
